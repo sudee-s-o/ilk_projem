@@ -7,4 +7,8 @@ proje json veri tipindeki verileri darta dönüştürerek ilgili verileri çekiy
 Gerekli componentler ile kod kalabalığını önleyerek sade ve temiz bir hiyerarşi sürdürülmüştür.
 
 
-Projeye ait ekran görüntüleri ekte yer almaktadır,oradan inceleme yapabilirsiniz.
+Projeye ait ekran görüntüleri 
+Uygulama Görselleri
+
+<img src="screenshots/uygulama resimleri/Ekran Resmi 2026-07-17 20.11.40.png" width="250">
+oradan inceleme yapabilirsiniz.
