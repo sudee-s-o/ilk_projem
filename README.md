@@ -1,17 +1,10 @@
 # ilk_projem
+Flutter 3.44.6 
+Dart 3.12.2
+SDK version: 3.12.2
+versiyonlarını kullanarak projemi oluşturdum.
+proje json veri tipindeki verileri darta dönüştürerek ilgili verileri çekiyorum aslında basic bir ürün uygulaması.
+Gerekli componentler ile kod kalabalığını önleyerek sade ve temiz bir hiyerarşi sürdürülmüştür.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeye ait ekran görüntüleri ekte yer almaktadır,oradan inceleme yapabilirsiniz.
