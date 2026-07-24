@@ -1,6 +1,6 @@
 # ilk_projem
 
-Bu proje Flutter kullanılarak geliştirilmiş basit bir ürün listeleme uygulamasıdır.
+Bu proje gönüllü stajımda öğrendiğim bilgiler kapsamında hazırlanmış ve Flutter kullanılarak geliştirilmiş basit bir ürün listeleme uygulamasıdır.
 
 ## Kullanılan Teknolojiler
 
