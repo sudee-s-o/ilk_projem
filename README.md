@@ -1,7 +1,9 @@
 # ilk_projem
 
-Bu proje gönüllü stajımda öğrendiğim bilgiler kapsamında hazırlanmış ve Flutter kullanılarak geliştirilmiş basit bir ürün listeleme uygulamasıdır.
+Bu proje, gönüllü staj sürecinde edindiğim bilgiler doğrultusunda Flutter kullanılarak geliştirilmiş basit bir ürün listeleme uygulamasıdır. Staja başladığımda Flutter hakkında herhangi bir bilgim bulunmuyordu. Eğitmenimizin anlatımları, örnek uygulamaları ve paylaştığı deneyimler sayesinde Flutter’ın temel yapılarını öğrenme fırsatı buldum.
 
+Staj sürecinde eğitmenimizle birlikte geliştirilen örnek projeyi, öğrendiklerimi pekiştirmek amacıyla daha sonra tek başıma yeniden oluşturdum. Projeyi tekrar geliştirirken kodları doğrudan kopyalamak yerine kullanılan yapıların mantığını anlamaya, karşılaştığım hataları araştırarak çözmeye ve projeyi kendi başıma tamamlamaya özen gösterdim.
+Bu proje sayesinde Flutter ve Dart’ın temel yapıları, API üzerinden veri çekme, JSON verilerini modele dönüştürme, sayfalar arası veri aktarımı, listeleme işlemleri ve kullanıcı arayüzü oluşturma konularında deneyim kazandım.
 ## Kullanılan Teknolojiler
 
 - Flutter 3.44.6
